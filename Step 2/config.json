@@ -1,0 +1,9 @@
+{
+  "description": "This is a file containing a dummy config in order to test a webview react in VS Code.",
+  "name": "my config",
+  "users": [
+    { "active": true, "name": "alice", "roles": ["user", "admin"] },
+    { "active": true, "name": "bob", "roles": ["user"] },
+    { "active": false, "name": "charlie", "roles": ["user"] }
+  ]
+}
